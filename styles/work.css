@@ -1,0 +1,15 @@
+.header {
+    background-image: url('../images/Anika/20190214_164127.jpg');
+    color: azure;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    /* background-color: blueviolet; */
+    background-blend-mode: multiply;
+
+}
+
+.color {
+    text-align: center;
+    font-size: 30px;
+    font-weight: 700;
+}
